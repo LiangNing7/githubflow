@@ -99,15 +99,15 @@ index 55f2b09..86951e9 100644
 
 ```bash
 git add .
-git commit -m "feate: add sub function"
-[feature/add-sub-function 136fe85] feate: add sub function
+git commit -m "feat: add sub function"
+[feature/add-sub-function 136fe85] feat: add sub function
  1 file changed, 6 insertions(+)
 git log
 commit 136fe853c806f3780eedac3fe0ea5cbaf04150de (HEAD -> feature/add-sub-function)
 Author: liangning <1075090027@qq.com>
 Date:   Tue May 7 00:18:39 2024 +0800
 
-    feate: add sub function
+    feat: add sub function
 
 commit cd733c59e1fa4c4e535dffe9478dbd747438b0a4 (origin/main, main)
 Author: liangning <1075090027@qq.com>
